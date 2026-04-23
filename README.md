@@ -24,3 +24,13 @@ cd In-Context-Watermarks
 pip install -r requirements.txt
 ```
 
+## Citation
+If you find this repository useful for your research or applications, please cite our paper:
+```
+@article{liu2025context,
+  title={In-context watermarks for large language models},
+  author={Liu, Yepeng and Zhao, Xuandong and Kruegel, Christopher and Song, Dawn and Bu, Yuheng},
+  journal={arXiv preprint arXiv:2505.16934},
+  year={2025}
+}
+```
