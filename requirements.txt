@@ -1,0 +1,9 @@
+datasets==3.5.0
+nltk==3.9.1
+numpy==1.26.4
+openai==1.58.1
+pandas==2.2.3
+pydantic==2.11.3
+spacy==3.8.5
+tqdm==4.67.1
+transformers==4.33.2
