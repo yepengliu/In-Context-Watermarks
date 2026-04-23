@@ -25,9 +25,9 @@ pip install -r requirements.txt
 ```
 
 ## How to use
-Please see [**ICW_DTS_Demo**](icw_dts_run.ipynb) for ICW Direct Text Stamp Setting.
+Please see [**ICW_DTS_Demo**](icw_dts_run.ipynb) for ICW in Direct Text Stamp Setting.
 
-Please see [**ICW_IPI_Demo**](icw_ipi_run.ipynb) for ICW Indirect Prompt Injection Setting.
+Please see [**ICW_IPI_Demo**](icw_ipi_run.ipynb) for ICW in Indirect Prompt Injection Setting.
 
 ## Citation
 If you find this repository useful for your research or applications, please cite our paper:
